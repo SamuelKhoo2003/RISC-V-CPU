@@ -1,5 +1,5 @@
 
-# RISC V (Team 1) 
+# RISC V CPU
 
 This repository is part of an IAC Module for Imperial where we are required to design a single cycle processor, and then further designing a pipelined processor (with data memory cache and hazard unit).
 
